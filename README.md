@@ -1,0 +1,2 @@
+# Odunewu-Wuraola-Virtual-Administrative-Operations-Support-Portfolio
+A professional portfolio showcasing my work in virtual administrative and operations support. It highlights practical projects in client coordination, CRM management, customer communication, records organisation, task tracking and business administration, using digital tools such as HubSpot, Airtable, Notion and Google Workspace.
